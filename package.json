@@ -1,0 +1,14 @@
+{
+  "name": "chaos-proxy",
+  "version": "0.0.1",
+  "description": "Proxy server to inject some chaos (e.g., latency, errors)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Sousa",
+  "license": "ISC",
+  "dependencies": {
+    "toxy": "^0.3.16"
+  }
+}
